@@ -1,3 +1,3 @@
 # Recipes
 
-This repository 
+This repository shows some simple instructions to make guacamole.
