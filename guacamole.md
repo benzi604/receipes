@@ -1,7 +1,6 @@
 # Ingredients
 
-- avocado
-- lime
+
 - salt
 - onion
 - garlic
